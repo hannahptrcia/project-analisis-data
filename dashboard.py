@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from babel.numbers import format_currency
-import plotly.express as px
 sns.set(style='dark')
 
 def create_daily_orders_df(df):
