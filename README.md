@@ -14,3 +14,6 @@ Buka terminal pada file dashboard.py lalu jalankan
 
 ## Cara lain
 Akses melalui https://dashboard-ecommerce.streamlit.app/
+
+## Link Github
+https://github.com/hannahptrcia/project-analisis-data
